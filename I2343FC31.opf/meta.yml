@@ -1,0 +1,18 @@
+id: I2343FC31
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:27:45.970461
+last_modified: 2023-01-04 11:27:45.970480
+source_metadata:
+  collections:
+  - Adzom Gyalse Series
+  - Works of Tibetan Masters
+bases:
+  '4244':
+    title: Notes on the Heart-Essence Practices of the Channels and Wind-Energies
+    base_file: 4244.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
